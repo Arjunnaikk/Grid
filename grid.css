@@ -125,7 +125,7 @@
     padding: 17px 30px;
     color: aliceblue;
     border-radius: 5px;
-
+    cursor: pointer;
 }
 .block h1 img{
     margin-left: 10px;
@@ -227,6 +227,7 @@ footer{
     margin: 10px 0;
     padding: 16px 8vw;
     border-radius: 10px;
+    cursor: pointer;
 }
 input{
     padding: 20px 40px;
